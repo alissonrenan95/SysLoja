@@ -161,7 +161,3 @@ CREATE TABLE Pagamento_funcionario (
   valor FLOAT NOT NULL
 );
 
-insert into usuario values(1,'alisson.renan95','renan2016','alisson.renan95.aj@gmail.com');
-insert into cargo values(1,'Gerente','Gerencia de loja',3);
-insert into cliente values(1,'Alisson Renan Carvalho Freitas','23-01-1995','85994057746','Tabelião José Gama Filho 30','Centro','Pacajus','20078240985','05787603397','');
-insert into funcionario values(1,1,1,1,800.00);
