@@ -1,12 +1,10 @@
 insert into cargo values(1,'Gerente','gerenciamento do sistema',2);
-insert into usuario values(1,'Renan','123456','alisson.renan95.aj@gmail.com');
-insert into cliente values(1,'Alisson Renan Carvalho Freitas','23-01-1995', '85989694772', 'Rua Tabelião José Gama Filho', 'Centro', 'Pacajus', 20078240985, 05787603397);
+insert into usuario values(1,'teste','123456','[teste@gmail.com]');
+insert into cliente values(1,'Teste','01-01-2000', '11000000000', 'Rua A', 'Centro', 'Fortaleza', 12345678901, 12345678901);
 insert into funcionario values(1,1,1,1,880.00);
-insert into cliente values(2,'Lucia Maria de Carvalho Freitas','24-01-1967','85986159767','Rua Tabelião José Gama Filho', 'Centro', 'Pacajus', 98025051726, 80258530391);
-insert into categoria_produto values(1, 'Limpeza');
-insert into produto values(1, 1, 'Shampoo Dove');
-insert into produto values(2, 1, 'Sabonete Lux');
-insert into fornecedor values(1, 'Carlos Jerdson Batista de Aguiar', '85', 'Rua', 'Croatá', 'Pacajus','CE');
+insert into categoria_produto values(1, 'Tecnologia');
+insert into produto values(1, 1, 'Capa Iphone 5s');
+insert into fornecedor values(1, 'Techs', '85', 'Rua', 'C', 'Fortaleza','CE');
 insert into fornecimento values(1,1,'01-01-2016','15-01-2016');
 insert into estoque(cod_barra, fornecimento_id, produto_id, valor, disponivel_venda) values(1,1,1,5.00,false);
 insert into estoque(cod_barra, fornecimento_id, produto_id, valor, disponivel_venda) values(2,1,2,5.00,false);
