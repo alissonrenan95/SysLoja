@@ -41,7 +41,7 @@ ORDER BY
 					<textElement textAlignment="Center">
 						<font isBold="false"/>
 					</textElement>
-					<text><![CDATA[Stylo Fashion]]></text>
+					<text><![CDATA[Mega Eletronicos]]></text>
 				</staticText>
 				<staticText>
 					<reportElement style="SubTitle" x="0" y="66" width="550" height="29" forecolor="#FFCC00" uuid="c9a18e58-c80b-4f4a-922a-00bbaec2a503"/>

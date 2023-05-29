@@ -1,7 +1,7 @@
 # SysLoja
  Projeto com fins de aprendizado na aplicação de conhecimentos em java.
  O Objetivo do projeto é:
- - Fornecer um sistema de vendas e controle de estoque de uma loja de acessórios;
+ - Fornecer um sistema de vendas e controle de estoque de uma loja de roupas e de uma loja de acessórios;
  - Disponibilizar relatórios para acompanhamento das vendas;
  - Disponibilizar relatórios para controle de estoque crítico da empresa.
 

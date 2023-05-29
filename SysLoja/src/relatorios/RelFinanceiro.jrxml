@@ -72,7 +72,7 @@ ORDER BY
 				<textElement textAlignment="Center">
 					<font isBold="false"/>
 				</textElement>
-				<text><![CDATA[Stylo Fashion]]></text>
+				<text><![CDATA[Mega Eletronicos]]></text>
 			</staticText>
 			<frame>
 				<reportElement mode="Opaque" x="0" y="0" width="555" height="95" backcolor="#000000" uuid="b259d9fa-b760-497b-9ea8-35e60b645f43"/>
@@ -81,7 +81,7 @@ ORDER BY
 					<textElement textAlignment="Center">
 						<font isBold="false"/>
 					</textElement>
-					<text><![CDATA[Stylo Fashion]]></text>
+					<text><![CDATA[Mega Eletronicos]]></text>
 				</staticText>
 				<staticText>
 					<reportElement style="SubTitle" x="0" y="66" width="550" height="29" forecolor="#FFCC00" uuid="c08a7f7b-7ded-4bf0-b917-04e0be48634f"/>
